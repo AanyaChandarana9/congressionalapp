@@ -1,0 +1,29 @@
+General ideas:
+- something related to social media
+- something related to sports?
+- AI
+
+social media
+- time management -  reducing scrolling time on apps
+- screen time
+- comparison - comparing to other people
+- 
+- 
+
+AI - privacy concern, companies relying too much on it
+- ai detectors - specifically for teachers
+- 
+
+
+sports
+- nutrition, based on the day, like if you have a game in 3 days, what should you shoot to eat 
+- speed or agility tracking app - personal metrics, log your results
+- maybe like an app that hosts sporting events and allows a certain amount of people to sign up and join (older users - that want to stay in touch with sports and socialize?)
+- workout generator app -> maybe that also tracks past workouts
+
+
+- maybe like an app that hosts sporting events and allows a certain amount of people to sign up and join (older users - that want to stay in touch with sports and socialize?)
+- tailor it to older people: helping with lonliness and being active
+- active aging - pickleball, walking clubs..something like that
+- maybe like using mobility level and competitiveness
+- maybe integrate a google map using your location but I don't know how to do that
