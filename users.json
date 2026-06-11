@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Aanya",
+        "age": 16,
+        "interests": [
+            "pickleball",
+            "walking"
+        ],
+        "level of mobility": "intermediate",
+        "events hosted": [1],
+        "events attending": [4, 2, 7],
+        "ID": 1
+    }
+]

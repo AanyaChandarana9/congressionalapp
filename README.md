@@ -23,6 +23,7 @@ Hypothetical ideas:
 - events hosted - Event[]
 - events attending - Event[]
 - level of mobility - String
+- user ID - int
 
 ### Location
 
@@ -34,6 +35,7 @@ Hypothetical ideas:
 
 ### Event
 
+- ID - int
 - location - Location
 - Capacity - int
 - Number of people going - int
@@ -44,6 +46,7 @@ Hypothetical ideas:
 - type of event - String
 - participants - User[]
 - level of activity - String 
+- name - String
 
 
 ### Log-in information
